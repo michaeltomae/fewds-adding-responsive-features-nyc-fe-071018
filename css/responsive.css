@@ -27,12 +27,10 @@
 
 @media only screen and (width: 750px) {
   #navbar nav a {
-		font-size: 85%;
+		font-size: 0.9em;
   }
 
-  #logo h1 {
-		height: 35px;
-		width: 35px;
+  .col-3 p {
   }
 
   #logo h2 {
